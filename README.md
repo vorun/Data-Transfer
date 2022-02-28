@@ -8,8 +8,8 @@ slave msp430's led lights up.
 -In order to transmit data with bluetooth module you need to configure your bluetooth modules to 
 master/slave.
 
--This circuit can be configured to control a device with the master circuit or with any device with bluetooth 
+-Slave circuit can be configured to control a device with the master circuit or with any device with bluetooth 
 capability.  
 
--Pin connections and circiut design can be found at the "MSP430 Bluetooth Comm PCB" folder.
+-Pin connections and circiut designs can be found at the "MSP430 Bluetooth Comm PCB" folder.
 
