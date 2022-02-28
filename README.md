@@ -13,3 +13,5 @@ capability.
 
 -Pin connections and circiut designs can be found at the "MSP430 Bluetooth Comm PCB" folder.
 
+Orhun Dabak
+
