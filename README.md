@@ -2,7 +2,7 @@
 Communication Between 2 MSP430 Microcontroller Via Bluetooth
 
 -When you press the button at the master msp430, data which is 0x11 gets sent to slave 
-msp430 via bluetooth using uart. As long as the data coming from the master msp430 is equel to '2'
+msp430 via bluetooth using uart. As long as the data coming from the master msp430 is equal to '2'
 slave msp430's led lights up.
 
 -In order to transmit data with bluetooth module you need to configure your bluetooth modules to 
